@@ -5,6 +5,7 @@
   🌐 <a href="https://arslanautomates.com"><b>arslanautomates.com</b></a> ·
   💻 <a href="https://dev.arslanautomates.com"><b>Dev portfolio</b></a> ·
   📂 <a href="https://arslanautomates.com/#work"><b>13 case studies</b></a>
+  · 🟢 <a href="https://www.upwork.com/freelancers/~011e0efe301137b8f9"><b>Hire me on Upwork</b></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -22,7 +23,9 @@
 
 - 🎓 BS Software Engineering, **FAST-NUCES** (2024)
 
-- 📫 How to reach me **contact@arslanautomates.com**
+- 📫 How to reach me **contact@arslanautomates.com** · or hire me on [Upwork](https://www.upwork.com/freelancers/~011e0efe301137b8f9) (GoHighLevel Expert)
+
+- ✍️ I write about GoHighLevel and AI automation on [dev.to](https://dev.to/arslanautomates) and [Medium](https://medium.com/@arslanautomates)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
