@@ -9,7 +9,7 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 💼 I’m currently working as a **Senior CRM Developer** at Inteliqo Solutions: GoHighLevel, n8n, Make & Zapier automation, RAG agents and API integrations
+- 💼 I’m currently working as a **Senior CRM Developer** at Inteliqo Solutions (CS Outsource in the US): GoHighLevel, n8n, Make & Zapier automation, RAG agents and API integrations
 
 - 🔭 I build **CRM automation** (speed-to-lead, missed-call text-back, recall & renewal systems), **AI agents** (RAG, voice agents, LangChain/LangGraph) and **full-stack apps** (Next.js, MERN, AWS)
 
